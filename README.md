@@ -2,7 +2,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KentoAoyama&count_private=true&show_icons=true&locale=en" alt="KentoAoyama" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KentoAoyama&theme=dark_lover" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AoyamaKento&count_private=true&theme=dark_lover" /></a> </p>
+username=AoyamaKento&count_private=true&theme=dark_lover" /></a> </p>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
